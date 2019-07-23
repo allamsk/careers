@@ -9,7 +9,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	color: black;
+	color: black; 
 }
 .jumbotron {
 	background: rgb(233, 236, 239) transparent;

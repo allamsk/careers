@@ -1,15 +1,4 @@
-html {
-	scroll-behavior: smooth;
-}
 
-body {
-	background-image: url(../img/bg.png) no-repeat center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	color: black;
-}
 
 .jumbotron {
 	background: rgb(233, 236, 239) transparent;
